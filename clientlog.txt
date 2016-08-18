@@ -1,0 +1,34 @@
+
+Inserire i comandi da inviare al server
+Il container è in una posizione stabile
+Spostamento effettuato
+Il container è in procinto di collisione
+Spostamento effettuato
+Il container è in una posizione stabile
+Fine round
+Container [6] in posizione[0][2]
+Il container è in una posizione stabile
+Spostamento effettuato
+Il container è in procinto di collisione
+Spostamento effettuato
+Il container è in una posizione stabile
+
+Dimensione dello scalo: 3
+Intervallo tra due round successivi: 2 secondi
+Nessun container in posizione [0][0]
+Posizione di tutti i container nel resto dello scalo: 
+Container [6] in posizione: [0][2]
+Container [5] in posizione: [1][1]
+Container [4] in posizione: [2][1]
+Numero di container presenti nello scalo: 3
+Numero di possibili collisioni individuate: 1
+Numero di collisioni registrate: 3
+
+Il container è in una posizione stabile
+Il carico non può essere spostato nella locazione di destra
+Il container è in una posizione stabile
+Il carico non può essere spostato nella locazione di sopra
+Il container è in una posizione stabile
+Spostamento effettuato
+Il container è in procinto di collisione
+Il container è uscito regolarmente dallo scalo
